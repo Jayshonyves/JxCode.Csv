@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>ce2ae7d3-4fea-4db9-8c60-25a6014b1ee0</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>JxCode.Csv</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)CsvConvert.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CsvData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CsvReader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CsvRecord.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CsvWriter.cs" />
+  </ItemGroup>
+</Project>

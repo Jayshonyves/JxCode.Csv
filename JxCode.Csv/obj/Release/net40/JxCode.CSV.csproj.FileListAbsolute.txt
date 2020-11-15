@@ -1,0 +1,8 @@
+E:\Jxcode\JxCode.CSV\JxCode.CSV\bin\Release\net40\JxCode.CSV.dll
+E:\Jxcode\JxCode.CSV\JxCode.CSV\bin\Release\net40\JxCode.CSV.pdb
+E:\Jxcode\JxCode.CSV\JxCode.CSV\obj\Release\net40\JxCode.CSV.csprojAssemblyReference.cache
+E:\Jxcode\JxCode.CSV\JxCode.CSV\obj\Release\net40\JxCode.CSV.csproj.CoreCompileInputs.cache
+E:\Jxcode\JxCode.CSV\JxCode.CSV\obj\Release\net40\JxCode.CSV.AssemblyInfoInputs.cache
+E:\Jxcode\JxCode.CSV\JxCode.CSV\obj\Release\net40\JxCode.CSV.AssemblyInfo.cs
+E:\Jxcode\JxCode.CSV\JxCode.CSV\obj\Release\net40\JxCode.CSV.dll
+E:\Jxcode\JxCode.CSV\JxCode.CSV\obj\Release\net40\JxCode.CSV.pdb

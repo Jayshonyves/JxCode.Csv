@@ -1,0 +1,8 @@
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\bin\Debug\netcoreapp3.1\JxCode.CSV.deps.json
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\bin\Debug\netcoreapp3.1\JxCode.CSV.dll
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\bin\Debug\netcoreapp3.1\JxCode.CSV.pdb
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\netcoreapp3.1\JxCode.CSV.csproj.CoreCompileInputs.cache
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\netcoreapp3.1\JxCode.CSV.AssemblyInfoInputs.cache
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\netcoreapp3.1\JxCode.CSV.AssemblyInfo.cs
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\netcoreapp3.1\JxCode.CSV.dll
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\netcoreapp3.1\JxCode.CSV.pdb

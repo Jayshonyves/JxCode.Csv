@@ -1,0 +1,15 @@
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\bin\Debug\net45\JxCode.CSV.dll
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\bin\Debug\net45\JxCode.CSV.pdb
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\net45\JxCode.CSV.csproj.CoreCompileInputs.cache
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\net45\JxCode.CSV.AssemblyInfoInputs.cache
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\net45\JxCode.CSV.AssemblyInfo.cs
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\net45\JxCode.CSV.dll
+E:\JxCode\JxCode.CSV\Project\JxCode.CSV\obj\Debug\net45\JxCode.CSV.pdb
+E:\JxCode\JxCode.CSV\JxCode.CSV\bin\Debug\net45\JxCode.CSV.dll
+E:\JxCode\JxCode.CSV\JxCode.CSV\bin\Debug\net45\JxCode.CSV.pdb
+E:\JxCode\JxCode.CSV\JxCode.CSV\obj\Debug\net45\JxCode.CSV.csproj.CoreCompileInputs.cache
+E:\JxCode\JxCode.CSV\JxCode.CSV\obj\Debug\net45\JxCode.CSV.AssemblyInfoInputs.cache
+E:\JxCode\JxCode.CSV\JxCode.CSV\obj\Debug\net45\JxCode.CSV.AssemblyInfo.cs
+E:\JxCode\JxCode.CSV\JxCode.CSV\obj\Debug\net45\JxCode.CSV.dll
+E:\JxCode\JxCode.CSV\JxCode.CSV\obj\Debug\net45\JxCode.CSV.pdb
+E:\JxCode\JxCode.CSV\JxCode.CSV\obj\Debug\net45\JxCode.CSV.csprojAssemblyReference.cache
